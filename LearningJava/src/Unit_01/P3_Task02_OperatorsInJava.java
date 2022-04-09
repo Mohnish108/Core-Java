@@ -1,4 +1,4 @@
-package Unit01;
+package Unit_01;
 /*
 #Operator in java is a symbol that is used to perform operations.
  sum= a+b;
